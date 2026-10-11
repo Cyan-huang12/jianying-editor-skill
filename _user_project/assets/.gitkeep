@@ -1,0 +1,2 @@
+把你的视频素材放到这个目录, 命名为 lion_dance.mp4
+或者命令行传入: python ../build_lion_dance.py /abs/path/to/video.mp4
